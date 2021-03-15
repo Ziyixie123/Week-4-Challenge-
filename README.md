@@ -30,19 +30,19 @@ Use Python in the Jupyter notebook to read and load the student and school datas
 ![reading_per_grade_after](https://user-images.githubusercontent.com/77470927/111098252-70ea1e00-8519-11eb-9fa0-c56b066dfbd4.png)
 ![School_sum_after](https://user-images.githubusercontent.com/77470927/111098255-72b3e180-8519-11eb-8b98-2af99d476527.png)
 
--district summary: Comparing to the original data analysis, other school performances remain the same in the second data analysis. However,  THS’ reading, math, and overall passing percentage are better 
--school summary: Comparing to the original data analysis, there is no significant difference in the second analysis besides the overall passing percentage is one percent higher in the later analysis.
--After replacing the ninth graders’ math and reading scores,  Thomas High School’s performance becomes better with its higher reading, math, and overall passing percentage.
--After replacing the ninth-grade scores: 
-Math and reading scores by grade seem better 
-Scores by school spending seem better in [630-644]group
-Scores by school size seem better in the medium-size group
-Scores by school type in the character group  
+  -district summary: Comparing to the original data analysis, other school performances remain the same in the second data analysis. However,  THS’ reading, math, and overall passing percentage are better 
+  -school summary: Comparing to the original data analysis, there is no significant difference in the second analysis besides the overall passing percentage is one percent higher in the later analysis.
+  -After replacing the ninth graders’ math and reading scores,  Thomas High School’s performance becomes better with its higher reading, math, and overall passing percentage.
+  -After replacing the ninth-grade scores: 
+    Math and reading scores by grade seem better 
+    Scores by school spending seem better in [630-644]group
+    Scores by school size seem better in the medium-size group
+    Scores by school type in the character group  
 ## Summary 
-In the second data analysis without 9th grade, THS has a better math passing percentage.
-In the second data analysis without 9th grade, THS has a better reading passing percentage.
-In the second data analysis without 9th grade, THS has a better overall passing percentage.
-In the second data analysis without 9th grade, scores by school size seem better in the medium-size group
+  1.In the second data analysis without 9th grade, THS has a better math passing percentage.
+  2.In the second data analysis without 9th grade, THS has a better reading passing percentage.
+  3.In the second data analysis without 9th grade, THS has a better overall passing percentage.
+  4.In the second data analysis without 9th grade, scores by school size seem better in the medium-size group
 
 
 
